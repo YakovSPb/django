@@ -73,3 +73,13 @@ main .features p {
     margin: 20px 34%;
     text-align: left;
 }
+
+.add-news{
+    margin-top: 30px;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
